@@ -25,9 +25,5 @@ My first step is to write about it. I’ve listed the things that the Mixture ap
 - choice of template systems
 - UI for managing config options
 - Speed (Mixture was frequently molasses - I think it was their Ruby version of Sass processing)
-
-
-
-
-
-
+----
+Testing prose.io
